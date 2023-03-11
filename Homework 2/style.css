@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(162, 193, 207, 0.986);
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+a {
+    color: chocolate;
+}
+
+img {
+    width: 1000px;
+    margin-left: 150px;
+}
+
+ul {
+    list-style-type: square;
+}
